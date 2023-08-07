@@ -1,6 +1,8 @@
 # Lemonicon
 My First Internal Hack For Game HoloEarth... 
 
+[Join To My Discord Server](https://discord.gg/sHrXTePxxW)
+
 ## Functions
 
 - Disabling and Enabling IL2CPP Callbacks...
